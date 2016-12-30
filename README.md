@@ -6,3 +6,4 @@ Utilities, libraries and random links I don't want to forget about
 * [Shoutem UI Toolkit](https://shoutem.github.io/ui/) - React Native components library
 * [React Native / JS.Coach](https://js.coach/react-native/) - A bunch of RN components (and non-RN as well)
 * [Carte Blanche](https://github.com/carteb/carte-blanche) - Playground for React components
+* [marky](https://github.com/nolanlawson/marky) - High-resolution JavaScript timer based on `performance.mark()` and `measure()`
