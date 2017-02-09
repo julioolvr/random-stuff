@@ -9,3 +9,4 @@ Utilities, libraries and random links I don't want to forget about
 * [marky](https://github.com/nolanlawson/marky) - High-resolution JavaScript timer based on `performance.mark()` and `measure()`
 * [HokeyApp](https://hockeyapp.net/) - DevOps platform for mobile
 * [Bitrise](https://www.bitrise.io/) - CI for mobile
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake API for prototyping
