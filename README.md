@@ -11,3 +11,4 @@ Utilities, libraries and random links I don't want to forget about
 * [Bitrise](https://www.bitrise.io/) - CI for mobile
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake API for prototyping
 * [react-trend](https://github.com/unsplash/react-trend) - Simple trend graphs
+* [draggable](https://github.com/Shopify/draggable) - Shopify's drag and drop library
